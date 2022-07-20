@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my name is Dennis!
+
+- 🌱 I’m currently studying Business Informatics !
+- 📫 How to reach me: dennis.wach@live.de
 
 <!--
 **dtwach/dtwach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
